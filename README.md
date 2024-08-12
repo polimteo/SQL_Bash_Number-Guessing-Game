@@ -12,8 +12,8 @@ Script Development
 User Interaction
 -
 - The script prompts the user for their username with **"Enter your username:"**. It accommodates usernames up to 22 characters.
-- If the username exists in the database, the script prints **"Welcome back, <username>! You have played <games_played> games, and your best game took <best_game> guesses."**
-- If the username is new, it prints **"Welcome, <username>! It looks like this is your first time here."**
+- If the username exists in the database, the script prints **"Welcome back,<user_name>! You have played <games_played> games, and your best game took <best_game> guesses."**
+- If the username is new, it prints **"Welcome, <user_name>! It looks like this is your first time here."**
 
 Gameplay
 -
